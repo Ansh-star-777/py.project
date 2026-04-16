@@ -1,0 +1,19 @@
+friend1 = "Monkey D. Luffy"
+friend2 = "Naruto Uzumaki"
+friend3 = "Goku"
+friend4 = "Satoru Gojo"
+friend5 = "Levi Ackerman"
+
+
+bday1 = "5 May"
+bday2 = "10 Oct"
+bday3 = "Unknown"
+bday4 = "7 Dec"
+bday5 = "25 Dec"
+
+
+print(friend1, "birthday is on", bday1)
+print(friend2, "birthday is on", bday2)
+print(friend3, "birthday is", bday3)
+print(friend4, "birthday is on", bday4)
+print(friend5, "birthday is on", bday5)
