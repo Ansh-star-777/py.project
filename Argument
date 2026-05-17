@@ -1,0 +1,17 @@
+def shutdown(choice):
+
+    if choice == "Yes":
+        print("Shutting down")
+
+    elif choice == "No":
+        print("Abort shut down")
+
+    else:
+        print("sorry")
+
+
+# taking input from user
+user_input = input("Enter Yes or No: ")
+
+# calling function
+shutdown(user_input)
